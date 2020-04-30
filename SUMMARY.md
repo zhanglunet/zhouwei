@@ -16,6 +16,7 @@
 * [我出主意你发财](wo-chu-zhu-yi-ni-fa-cai.md)
 * [庆祝教师节](qing-zhu-jiao-shi-jie.md)
 * [经验之谈](jing-yan-zhi-tan.md)
+* [张公百忍](zhang-gong-bai-ren.md)
 * [我是堂吉诃德再世](wo-shi-tang-ji-he-de-zai-shi.md)
 * [福兮福兮奈若何](fu-xi-fu-xi-nai-ruo-he.md)
 * [我的外国朋友](wo-de-wai-guo-peng-you.md)
