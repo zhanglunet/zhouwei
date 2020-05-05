@@ -22,6 +22,7 @@
 * [我的外国朋友](wo-de-wai-guo-peng-you.md)
 * [蛮劲就是干劲](man-jin-jiu-shi-gan-jin.md)
 * [我最大的幸福](wo-zui-da-de-xing-fu.md)
+* [蒙胧中作诗题词](meng-long-zhong-zuo-shi-ti-ci.md)
 * [我更喜欢夏天](wo-geng-xi-huan-xia-tian.md)
 * [千百次谈话中的一次](qian-bai-ci-tan-hua-zhong-de-yi-ci.md)
 * [子曰](zi-yue.md)
