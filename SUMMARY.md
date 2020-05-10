@@ -28,7 +28,7 @@
 * [子曰](zi-yue.md)
 * [正风文凭](zheng-feng-wen-ping.md)
 * [神圣的广告](shen-sheng-de-guang-gao.md)
-* [不堪设想](bu-kan-she-xiang.md)
+* [不堪设想（剧评）](bu-kan-she-xiang.md)
 * [改良煤油炉给我的启示](gai-liang-mei-you-lu-gei-wo-de-qi-shi.md)
 * [天不会塌下来](tian-bu-hui-ta-xia-lai.md)
 
