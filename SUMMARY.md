@@ -31,4 +31,6 @@
 * [不堪设想（剧评）](bu-kan-she-xiang.md)
 * [改良煤油炉给我的启示](gai-liang-mei-you-lu-gei-wo-de-qi-shi.md)
 * [天不会塌下来](tian-bu-hui-ta-xia-lai.md)
+* [我是万斤户](wo-shi-wan-jin-hu.md)
+* [天壤之别](tian-rang-zhi-bie.md)
 
