@@ -40,4 +40,5 @@
 * [从不留胡须谈起](cong-bu-liu-hu-xu-tan-qi.md)
 * [梦里三潭印月](meng-li-san-tan-yin-yue.md)
 * [种根](zhong-gen.md)
+* [类同种不同，差异大](lei-tong-zhong-bu-tong-cha-yi-da.md)
 
