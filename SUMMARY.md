@@ -37,4 +37,6 @@
 * [于小见大](yu-xiao-jian-da.md)
 * [在世界上我是受骗者](zai-shi-jie-shang-wo-shi-shou-pian-zhe.md)
 * [面纱，都是可以揭开的](mian-sha-du-shi-ke-yi-jie-kai-de.md)
+* [从不留胡须谈起](cong-bu-liu-hu-xu-tan-qi.md)
+* [梦里三潭印月](meng-li-san-tan-yin-yue.md)
 
