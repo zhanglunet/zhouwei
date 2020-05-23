@@ -41,4 +41,5 @@
 * [梦里三潭印月](meng-li-san-tan-yin-yue.md)
 * [种根](zhong-gen.md)
 * [类同种不同，差异大](lei-tong-zhong-bu-tong-cha-yi-da.md)
+* [十中校庆联欢会上的讲话](shi-zhong-xiao-qing-lian-huan-hui-shang-de-jiang-hua.md)
 
