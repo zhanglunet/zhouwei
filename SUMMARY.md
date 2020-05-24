@@ -42,4 +42,5 @@
 * [种根](zhong-gen.md)
 * [类同种不同，差异大](lei-tong-zhong-bu-tong-cha-yi-da.md)
 * [十中校庆联欢会上的讲话](shi-zhong-xiao-qing-lian-huan-hui-shang-de-jiang-hua.md)
+* [爱多数是单方面的](ai-duo-shu-shi-dan-fang-mian-de.md)
 
