@@ -45,4 +45,5 @@
 * [爱多数是单方面的](ai-duo-shu-shi-dan-fang-mian-de.md)
 * [炎黄子孙繁衍考](yan-huang-zi-sun-fan-yan-kao.md)
 * [谁的自由多](shui-de-zi-you-duo.md)
+* [乐观派和悲观派](le-guan-pai-he-bei-guan-pai.md)
 
