@@ -46,4 +46,5 @@
 * [炎黄子孙繁衍考](yan-huang-zi-sun-fan-yan-kao.md)
 * [谁的自由多](shui-de-zi-you-duo.md)
 * [乐观派和悲观派](le-guan-pai-he-bei-guan-pai.md)
+* [真理篇](zhen-li-pian.md)
 
