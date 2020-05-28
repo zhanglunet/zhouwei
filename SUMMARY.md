@@ -47,4 +47,5 @@
 * [谁的自由多](shui-de-zi-you-duo.md)
 * [乐观派和悲观派](le-guan-pai-he-bei-guan-pai.md)
 * [真理篇](zhen-li-pian.md)
+* [幸与不幸](xing-yu-bu-xing.md)
 
