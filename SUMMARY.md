@@ -48,4 +48,5 @@
 * [乐观派和悲观派](le-guan-pai-he-bei-guan-pai.md)
 * [真理篇](zhen-li-pian.md)
 * [幸与不幸](xing-yu-bu-xing.md)
+* [最好的医生博士是自己](zui-hao-de-yi-sheng-bo-shi-shi-zi-ji.md)
 
