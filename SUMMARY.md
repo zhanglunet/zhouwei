@@ -53,4 +53,5 @@
 * [家花哪有野花香](jia-hua-na-you-ye-hua-xiang.md)
 * [音乐是我的终生伴侣](yin-le-shi-wo-de-zhong-sheng-ban-lv.md)
 * [神仙生活](shen-xian-sheng-huo.md)
+* [我跨开了流浪的第一步](wo-kua-kai-le-liu-lang-de-di-yi-bu.md)
 
