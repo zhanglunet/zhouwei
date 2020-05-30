@@ -52,4 +52,5 @@
 * [我与眼睛订合同](wo-yu-yan-jing-ding-he-tong.md)
 * [家花哪有野花香](jia-hua-na-you-ye-hua-xiang.md)
 * [音乐是我的终生伴侣](yin-le-shi-wo-de-zhong-sheng-ban-lv.md)
+* [神仙生活](shen-xian-sheng-huo.md)
 
