@@ -50,4 +50,5 @@
 * [幸与不幸](xing-yu-bu-xing.md)
 * [最好的医生博士是自己](zui-hao-de-yi-sheng-bo-shi-shi-zi-ji.md)
 * [我与眼睛订合同](wo-yu-yan-jing-ding-he-tong.md)
+* [家花哪有野花香](jia-hua-na-you-ye-hua-xiang.md)
 
