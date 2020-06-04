@@ -56,4 +56,5 @@
 * [我跨开了流浪的第一步](wo-kua-kai-le-liu-lang-de-di-yi-bu.md)
 * [社会这样待我](she-hui-zhe-yang-dai-wo.md)
 * [我的逻辑](wo-de-luo-ji.md)
+* [谢谢你，谢谢大家](xie-xie-ni-xie-xie-da-jia.md)
 
