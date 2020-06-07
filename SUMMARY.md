@@ -57,4 +57,5 @@
 * [社会这样待我](she-hui-zhe-yang-dai-wo.md)
 * [我的逻辑](wo-de-luo-ji.md)
 * [谢谢你，谢谢大家](xie-xie-ni-xie-xie-da-jia.md)
+* [老头子宣言](lao-tou-zi-xuan-yan.md)
 
