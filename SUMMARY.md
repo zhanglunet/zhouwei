@@ -59,4 +59,5 @@
 * [谢谢你，谢谢大家](xie-xie-ni-xie-xie-da-jia.md)
 * [老头子宣言](lao-tou-zi-xuan-yan.md)
 * [天不会塌下来](tian-bu-hui-ta-xia-lai-1.md)
+* [四种救世处方](si-zhong-jiu-shi-chu-fang.md)
 
