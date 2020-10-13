@@ -61,4 +61,5 @@
 * [天不会塌下来](tian-bu-hui-ta-xia-lai-1.md)
 * [四种救世处方](si-zhong-jiu-shi-chu-fang.md)
 * [诀别辞](jue-bie-ci.md)
+* [〈红三角〉参考材料](hong-san-jiao-can-kao-cai-liao.md)
 
