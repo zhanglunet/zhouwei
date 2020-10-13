@@ -60,4 +60,5 @@
 * [老头子宣言](lao-tou-zi-xuan-yan.md)
 * [天不会塌下来](tian-bu-hui-ta-xia-lai-1.md)
 * [四种救世处方](si-zhong-jiu-shi-chu-fang.md)
+* [诀别辞](jue-bie-ci.md)
 
