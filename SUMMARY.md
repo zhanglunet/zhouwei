@@ -64,4 +64,5 @@
 * [〈红三角〉参考材料](hong-san-jiao-can-kao-cai-liao.md)
 * [我与死神搏斗](wo-yu-si-shen-bo-dou.md)
 * [泽被万民 功垂千古（哀悼黄克诚老师逝世）](ze-bei-wan-min-gong-chui-qian-gu-ai-dao-huang-ke-cheng-lao-shi-shi-shi.md)
+* [祖传秘方](zu-chuan-mi-fang.md)
 
