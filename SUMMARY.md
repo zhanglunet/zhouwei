@@ -67,4 +67,5 @@
 * [祖传秘方](zu-chuan-mi-fang.md)
 * [改造世界计划](gai-zao-shi-jie-ji-hua.md)
 * [人类将由什么来代替](ren-lei-jiang-you-shen-me-lai-dai-ti.md)
+* [自由万岁](zi-you-wan-sui.md)
 
