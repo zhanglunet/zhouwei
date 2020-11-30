@@ -69,4 +69,5 @@
 * [人类将由什么来代替](ren-lei-jiang-you-shen-me-lai-dai-ti.md)
 * [自由万岁](zi-you-wan-sui.md)
 * [九十年祭（1893-1983）](jiu-shi-nian-ji-18931983.md)
+* [怎样对待我的遗著（代遗嘱）](zen-yang-dui-dai-wo-de-yi-zhu-dai-yi-zhu.md)
 
