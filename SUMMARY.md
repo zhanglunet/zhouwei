@@ -71,4 +71,5 @@
 * [九十年祭（1893-1983）](jiu-shi-nian-ji-18931983.md)
 * [怎样对待我的遗著（代遗嘱）](zen-yang-dui-dai-wo-de-yi-zhu-dai-yi-zhu.md)
 * [时代没有赶上我](shi-dai-mei-you-gan-shang-wo.md)
+* [八七春节发笔](ba-qi-chun-jie-fa-bi.md)
 
