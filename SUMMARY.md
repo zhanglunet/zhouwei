@@ -72,4 +72,5 @@
 * [怎样对待我的遗著（代遗嘱）](zen-yang-dui-dai-wo-de-yi-zhu-dai-yi-zhu.md)
 * [时代没有赶上我](shi-dai-mei-you-gan-shang-wo.md)
 * [八七春节发笔](ba-qi-chun-jie-fa-bi.md)
+* [没有不吃鱼的猫](mei-you-bu-chi-yu-de-mao.md)
 
