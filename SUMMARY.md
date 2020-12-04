@@ -73,4 +73,5 @@
 * [时代没有赶上我](shi-dai-mei-you-gan-shang-wo.md)
 * [八七春节发笔](ba-qi-chun-jie-fa-bi.md)
 * [没有不吃鱼的猫](mei-you-bu-chi-yu-de-mao.md)
+* [给中共中央组织部的报告](gei-zhong-gong-zhong-yang-zu-zhi-bu-de-bao-gao.md)
 
