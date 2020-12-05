@@ -75,4 +75,5 @@
 * [没有不吃鱼的猫](mei-you-bu-chi-yu-de-mao.md)
 * [给中共中央组织部的报告](gei-zhong-gong-zhong-yang-zu-zhi-bu-de-bao-gao.md)
 * [死后追认也可以](si-hou-zhui-ren-ye-ke-yi.md)
+* [卖布（湖南民间故事）](mai-bu-hu-nan-min-jian-gu-shi.md)
 
