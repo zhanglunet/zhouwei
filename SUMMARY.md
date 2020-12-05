@@ -74,4 +74,5 @@
 * [八七春节发笔](ba-qi-chun-jie-fa-bi.md)
 * [没有不吃鱼的猫](mei-you-bu-chi-yu-de-mao.md)
 * [给中共中央组织部的报告](gei-zhong-gong-zhong-yang-zu-zhi-bu-de-bao-gao.md)
+* [死后追认也可以](si-hou-zhui-ren-ye-ke-yi.md)
 
