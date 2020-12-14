@@ -79,4 +79,5 @@
 * [《逆旅》第一章：雨夜](ni-lv-di-yi-zhang-yu-ye.md)
 * [无名的魅力](wu-ming-de-mei-li.md)
 * [“醋蛋”是坏蛋](cu-dan-shi-huai-dan.md)
+* [再谈文明礼貌](zai-tan-wen-ming-li-mao.md)
 
