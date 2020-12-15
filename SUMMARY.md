@@ -80,4 +80,5 @@
 * [无名的魅力](wu-ming-de-mei-li.md)
 * [“醋蛋”是坏蛋](cu-dan-shi-huai-dan.md)
 * [再谈文明礼貌](zai-tan-wen-ming-li-mao.md)
+* [黄色书刊和色情影剧使她变坏了](huang-se-shu-kan-he-se-qing-ying-ju-shi-ta-bian-huai-le.md)
 
