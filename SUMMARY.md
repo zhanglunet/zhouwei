@@ -82,4 +82,5 @@
 * [再谈文明礼貌](zai-tan-wen-ming-li-mao.md)
 * [黄色书刊和色情影剧使她变坏了](huang-se-shu-kan-he-se-qing-ying-ju-shi-ta-bian-huai-le.md)
 * [我的病入膏肓](wo-de-bing-ru-gao-huang.md)
+* [长江口风潮－回忆上海国立劳动大学中学部的学潮](chang-jiang-kou-feng-chao-hui-yi-shang-hai-guo-li-lao-dong-da-xue-zhong-xue-bu-de-xue-chao.md)
 
