@@ -85,5 +85,5 @@
 * [长江口风潮－回忆上海国立劳动大学中学部的学潮](chang-jiang-kou-feng-chao-hui-yi-shang-hai-guo-li-lao-dong-da-xue-zhong-xue-bu-de-xue-chao.md)
 * [圣诞节赠礼（译文）](sheng-dan-jie-zeng-li-yi-wen.md)
 * [天下舍我其谁哉](tian-xia-she-wo-qi-shui-zai.md)
-* [致吴长盛](zhi-wu-chang-sheng.md)
+* [致吴长盛（附简历）](zhi-wu-chang-sheng.md)
 
