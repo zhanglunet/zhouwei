@@ -87,4 +87,5 @@
 * [天下舍我其谁哉](tian-xia-she-wo-qi-shui-zai.md)
 * [致吴长盛（附简历）](zhi-wu-chang-sheng.md)
 * [冷冻五年](leng-dong-wu-nian.md)
+* [论差别](lun-cha-bie.md)
 
