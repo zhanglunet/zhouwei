@@ -88,4 +88,5 @@
 * [致吴长盛（附简历）](zhi-wu-chang-sheng.md)
 * [冷冻五年](leng-dong-wu-nian.md)
 * [论差别](lun-cha-bie.md)
+* [我是峡山口的一棵小树](wo-shi-xia-shan-kou-de-yi-ke-xiao-shu.md)
 
