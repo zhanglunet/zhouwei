@@ -91,4 +91,5 @@
 * [我是峡山口的一棵小树](wo-shi-xia-shan-kou-de-yi-ke-xiao-shu.md)
 * [学习世界语的今昔](xue-xi-shi-jie-yu-de-jin-xi.md)
 * [小溪赋](xiao-xi-fu.md)
+* [笑](xiao.md)
 
