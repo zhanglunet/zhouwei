@@ -92,4 +92,5 @@
 * [学习世界语的今昔](xue-xi-shi-jie-yu-de-jin-xi.md)
 * [小溪赋](xiao-xi-fu.md)
 * [笑](xiao.md)
+* [身体与灵魂争吵](shen-ti-yu-ling-hun-zheng-chao.md)
 
