@@ -93,4 +93,5 @@
 * [小溪赋](xiao-xi-fu.md)
 * [笑](xiao.md)
 * [身体与灵魂争吵](shen-ti-yu-ling-hun-zheng-chao.md)
+* [社会心理札记](she-hui-xin-li-zha-ji.md)
 
