@@ -95,4 +95,5 @@
 * [身体与灵魂争吵](shen-ti-yu-ling-hun-zheng-chao.md)
 * [社会心理札记](she-hui-xin-li-zha-ji.md)
 * [贵人和富人的心病](gui-ren-he-fu-ren-de-xin-bing.md)
+* [在错误中前进](zai-cuo-wu-zhong-qian-jin.md)
 
