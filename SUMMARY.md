@@ -98,4 +98,3 @@
 * [复述“乡村女教师”](fu-shu-xiang-cun-nv-jiao-shi.md)
 * [爱的铺张](ai-de-pu-zhang.md)
 * [大好信息，人民福音](da-hao-xin-xi-ren-min-fu-yin.md)
-* [搭口信](da-kou-xin.md)
