@@ -76,7 +76,6 @@
 * [给中共中央组织部的报告](gei-zhong-gong-zhong-yang-zu-zhi-bu-de-bao-gao.md)
 * [死后追认也可以](si-hou-zhui-ren-ye-ke-yi.md)
 * [卖布（湖南民间故事）](mai-bu-hu-nan-min-jian-gu-shi.md)
-* [《逆旅》第一章：雨夜](ni-lv-di-yi-zhang-yu-ye.md)
 * [无名的魅力](wu-ming-de-mei-li.md)
 * [“醋蛋”是坏蛋](cu-dan-shi-huai-dan.md)
 * [再谈文明礼貌](zai-tan-wen-ming-li-mao.md)
@@ -96,4 +95,7 @@
 * [社会心理札记](she-hui-xin-li-zha-ji.md)
 * [贵人和富人的心病](gui-ren-he-fu-ren-de-xin-bing.md)
 * [在错误中前进](zai-cuo-wu-zhong-qian-jin.md)
-
+* [复述“乡村女教师”](fu-shu-xiang-cun-nv-jiao-shi.md)
+* [爱的铺张](ai-de-pu-zhang.md)
+* [大好信息，人民福音](da-hao-xin-xi-ren-min-fu-yin.md)
+* [搭口信](da-kou-xin.md)
